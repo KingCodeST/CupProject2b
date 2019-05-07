@@ -7,6 +7,8 @@ public class ClassTest extends Student {
     public ClassTest(String firstName, String lastName, String nationalID, int marks) {
         super(firstName, lastName, nationalID);
        setMarksPerTest(marks);
+
+       //
     }
 
 
